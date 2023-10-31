@@ -1,0 +1,49 @@
+.todo-numberP {
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    outline: none;
+    background: linear-gradient( 90deg, rgb(59 52 70) 0%, rgb(151 90 149) 100% );
+    color: #fff;
+    text-transform: capitalize;
+    padding: 2px 0px;
+    font-size: 25px;
+    width: 91px;
+    margin-top: 11px;
+    margin-left: 10px;
+}
+
+.alert {
+    padding: 20px;
+    background-color: #3e3252;
+    color: white;
+    border-radius: 6px;
+    padding: 20px;
+    width: 50%;
+    margin: 19% 24%;
+  }
+  
+.closebtn {
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  width: 100%;
+  text-align: center;
+  margin-left: 12%;
+  padding: 20px;
+  }
+  
+.closebtn:hover {
+    color: black;
+  }
+
+  .buttonCo {
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 3%;
+    padding: 1%;
+  }
